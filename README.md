@@ -49,3 +49,7 @@ A chave da API não está incluída por segurança.
 ---
 
 ## 📌 Projeto desenvolvido como desafio da DIO
+## 📷 Exemplo de uso
+
+Você: O que são juros compostos?  
+🤖: Juros compostos são juros aplicados sobre o valor inicial e também sobre os juros acumulados ao longo do tempo.
